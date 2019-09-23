@@ -1,0 +1,7 @@
+{
+  "name": "typedoc-theme-diez",
+  "version": "1.0.0",
+  "description": "This package provides some light additions/enhancements to the `typedoc` \"minimal\" theme.",
+  "author": "The Haiku Team <contact@haiku.ai>",
+  "license": "Apache-2.0"
+}
